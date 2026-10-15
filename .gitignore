@@ -1,0 +1,5 @@
+/result
+# Archived experiment; keep the files locally but out of the default repo.
+/measured-boot
+# Bytecode caches from the analysis scripts in tools/.
+__pycache__/
